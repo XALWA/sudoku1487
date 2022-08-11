@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\xlw\code\visstudprojects\sudoku\sudoku\Source.cpp(12,73): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  sudoku.vcxproj -> D:\xlw\code\visstudprojects\sudoku\x64\Debug\sudoku.exe
